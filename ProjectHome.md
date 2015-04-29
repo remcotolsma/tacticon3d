@@ -1,0 +1,1 @@
+Tacticon is a new turn based board game, that can be seen as the new kind of chess. The software is build with Java3D and it can be used to play tacticon with 2 players. Computer player is not build yet, because of the complexity of the game.
